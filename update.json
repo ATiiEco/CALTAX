@@ -1,0 +1,9 @@
+
+{
+  "packageName": "com.caltax.v26",
+  "versionCode": 3,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/ATiiEco/CALTAX/releases/download/v1.0.0/CALTAX-v1.0.0.apk",
+  "mandatory": true,
+  "notes": "CALTAX الإصدار الأول - نظام التحديث الإجباري"
+}
